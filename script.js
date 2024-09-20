@@ -166,7 +166,7 @@ const colorSets = [
 
   {
     colors: ['#171a22', '#ffffff', '#ff622d', '#f7f7f7', '#421983'],
-    source: '<b>Inspiration:</b><br>SEMRush'
+    source: '<b>Inspirasjon fra:</b><br>SEMRush'
   },
 
   {
